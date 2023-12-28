@@ -1,4 +1,4 @@
-package bahagvara.recursion;
+package bahagvara;
 
 import helper.TimeMillis;
 
