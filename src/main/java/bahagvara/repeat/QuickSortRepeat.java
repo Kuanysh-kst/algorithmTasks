@@ -1,10 +1,10 @@
-package bahagvara;
+package bahagvara.repeat;
 
 import helper.TimeMillis;
 
 import java.util.Arrays;
 
-public class QuickSortReminder {
+public class QuickSortRepeat {
     //1.Для начала нужно найти опрный элемент pivot
     //2.Нужно менять местами элементы которые находятся не в свойх секциях
     //3.Нужно вызывать метод quickSort рекурсивно чтобы он делил массив на маленькие части
